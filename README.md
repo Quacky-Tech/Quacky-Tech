@@ -1,16 +1,13 @@
-## Hi there 👋
+【普通に炎上するネタツイ　１選】
+福沢諭吉の言葉で
+「試みに告ぐ、後進の少年輩、人の仕事を見て心に不満足なりと思わば、みずからその事を執（と）りてこれを試むべし。
+人の商売を見て拙なりと思わば、みずからその商売に当たりてこれを試むべし。
+隣家の世帯を見て不取締りと思わば、みずからこれを自家に試むべし。
+人の著書を評せんと欲せば、みずから筆を執りて書を著（あら）わすべし。
+学者を評せんと欲せば学者たるべし。医者を評せんと欲せば医者たるべし。
+至大のことより至細のことに至るまで、他人の働きに喙（くちばし）を容（い）れんと欲せば、試みに身をその働きの地位に置きて躬（み）みずから顧みざるべからず。
+あるいは職業のまったく相異なるものあらば、よくその働きの難易軽重を計り、異類の仕事にてもただ働きと働きとをもって自他の比較をなさば大なる謬（あやま）りなかるべし。」
+というのがあります。
+明治時代にはもうフレネミーという文化があったんですね。
 
-<!--
-**Quacky-Tech/Quacky-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+あ、僕はこんなの投稿してないですからね？
